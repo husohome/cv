@@ -1,3 +1,13 @@
+## Tutorial
+Not sure what to put here yet. 1234
+This is where Nick puts his work here.
+```r
+x <- c(1,2,5)
+y <- c(1,2,6)
+x + y
+```
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/husohome/personal-hub/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
