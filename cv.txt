@@ -1,0 +1,38 @@
+@ Bechelor of Arts
+200809-201306
+Major:: Foreign Languages and Literatures
+Institution:: National Taiwan University
+#Education #Spanish #English #Linguistics #Phonetics
+
+@ Bachelor of Science
+201009-201306
+Major:: Psychology
+Institution:: National Taiwan University
+Note:: Double Major
+#Education #General_Psychology
+
+@ Master's of Science
+201509-201711
+Major:: Psychology
+Specialization:: Developmental
+Institution:: University of British Columbia
+#Education
+#Quantitative #Developmental #Phonetics #Linguistics #Language_Development #Infant_Studies
+#Excel #ExcelVBA #R
+
+@ Doctor of Philosophy
+201711
+Major:: Measurement, Evaluation and Research Methodology
+Institution:: University of British Columbia
+Supervisor:: Dr. Amery D. Wu
+#Education #Quantitative #Structural_Equation_Modeling #Latent_Profile_Analysis 
+#Latent_Class_Analysis #General_Linear_Models #Linear_Regression 
+#Analysis_of_Variance #Generalized_Linear_Models #Logistic_Regression
+#Linear_Mixed_Effects_Models #Hieararchical_Linear_Models #Multilevel_Modelling
+#Artificial_Neural_Network #Multilabel_Neural_Network #Item_Response_Theory #Signal_Detection_Theory
+#Psychometrics #Statistics
+#Qualitative_Research #NVivo #Grounded_Theory
+#R #Python #Data_Science #Machine_Learning
+
+
+
